@@ -35,7 +35,8 @@ It covers:
 
  How to Import & Run
 1. Import the Collection
-- Download the file: [`my-collection.json`](.[https://raw.githubusercontent.com/a-ndi/postman-api-tests/refs/heads/main/New%20Test%20Collection.postman_collection.json) 
+- Download the file: [`my-collection.json`](https://raw.githubusercontent.com/a-ndi/postman-api-tests/main/New%20Test%20Collection.postman_collection.json)
+
 - Open Postman → **Import** → Select the JSON file.
 
 2. Set Up Environment Variables
